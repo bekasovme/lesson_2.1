@@ -45,7 +45,7 @@ $data = json_decode($phonebook, true);
   }
   td:first-child {
       border-left: 2px solid #56433D;
-      border-right: none;
+      
   }
   td:nth-child(2){
       text-align: left;
